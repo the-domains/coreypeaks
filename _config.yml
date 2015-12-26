@@ -1,0 +1,14 @@
+layout_spectrum: 0.2718768
+typography_spectrum: 0.1125245
+color:
+  saturation: 0.0256933
+  lightness: 0.9377776
+  brandStrength: 0.84815
+  rhythmicContrast: 0.158401
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Coreypeaks
